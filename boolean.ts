@@ -14,3 +14,7 @@ else
 {
     console.log("ohhhh!");
 }
+
+
+let student: number= (12)
+console.log(student>=20)
